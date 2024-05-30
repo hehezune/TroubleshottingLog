@@ -1,4 +1,4 @@
-# 240530*accessToken*갱신
+# 240530_accessToken 갱신
 
 ### 문제 상황
 
